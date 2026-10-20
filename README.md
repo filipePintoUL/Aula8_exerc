@@ -1,6 +1,6 @@
 # Introdução à Computação
 
-## Exercício Aula 7: Colaboração em Equipa para Criar um Documento Markdown sobre um Jogo
+## Exercício Aula 8: Colaboração em Equipa para Criar um Documento Markdown sobre um Jogo
 
 ### Objetivo:
 Os alunos devem trabalhar em grupos para criar um documento Markdown colaborativo sobre um jogo à escolha. Cada membro será responsável por uma secção diferente. O documento deve cobrir tudo o que foi abordado nas aulas sobre Markdown.
