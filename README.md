@@ -40,11 +40,8 @@ Os alunos devem trabalhar em grupos para criar um documento Markdown colaborativ
 8. **Unir o Projeto Final**  
    Depois de fazer todos os commits individuais, o grupo deve-se juntar para definir e estruturar todas as secções num único ficheiro Markdown, revendo o conteúdo e certificando-se de que todas as partes estão devidamente conectadas.
 
-1. **Commit Final e Push**  
+9. **Commit Final e Push**  
    Após unificar todas as partes, fazer o commit final com o documento completo.
-
-2.  **Apresentação do Trabalho e Q&A (10-15 minutos)**  
-    Cada grupo deve apresentar o documento final à turma, mostrando como colaboraram para completar o projeto e discutindo os desafios enfrentados durante o processo.
 
 ### Elementos obrigatórios:
 - Uso dos ficheiros `.gitignore` e `.gitattributes` (disponíveis no moodle).
